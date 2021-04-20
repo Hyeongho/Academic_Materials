@@ -1,0 +1,5 @@
+﻿  main.cpp
+E:\C++학술회\C++ 3주차\퀴즈 해설\main.cpp(115,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+E:\C++학술회\C++ 3주차\퀴즈 해설\main.cpp(191,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+E:\C++학술회\C++ 3주차\퀴즈 해설\main.cpp(232,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  퀴즈 해설.vcxproj -> E:\C++학술회\C++ 3주차\Debug\퀴즈 해설.exe

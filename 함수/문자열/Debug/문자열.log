@@ -1,0 +1,4 @@
+﻿  main.cpp
+E:\C++학술회\함수\문자열\main.cpp(1,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': 매크로 재정의
+E:\C++학술회\함수\문자열\main.cpp : message : '_CRT_SECURE_NO_WARNINGS'의 이전 정의를 참조하십시오.
+  문자열.vcxproj -> E:\C++학술회\함수\Debug\문자열.exe
