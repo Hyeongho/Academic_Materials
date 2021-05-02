@@ -17,6 +17,11 @@ public:
 
 	void Print();
 
+	void clone(Point& p)
+	{
+
+	}
+
 private:
 
 };

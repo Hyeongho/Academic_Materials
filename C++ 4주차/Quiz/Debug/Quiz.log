@@ -1,2 +1,8 @@
-﻿  Q3.cpp
-  Quiz.vcxproj -> E:\C++학술회\C++ 4주차\Debug\Quiz.exe
+﻿  Q1.cpp
+  Q2.cpp
+  Q3.cpp
+  코드를 생성하고 있습니다...
+Q2.obj : error LNK2005: "public: __thiscall Point::~Point(void)" (??1Point@@QAE@XZ)이(가) Q1.obj에 이미 정의되어 있습니다.
+Q2.obj : error LNK2005: "public: void __thiscall Point::Print(void)" (?Print@Point@@QAEXXZ)이(가) Q1.obj에 이미 정의되어 있습니다.
+Q2.obj : error LNK2005: "public: void __thiscall Point::SetArr(void)" (?SetArr@Point@@QAEXXZ)이(가) Q1.obj에 이미 정의되어 있습니다.
+E:\C++학술회\C++ 4주차\Debug\Quiz.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.
