@@ -40,6 +40,10 @@ Point::~Point()
 	delete[] arr;
 }
 
+Point::Point(Point& p)
+{
+}
+
 void Point::SetArr()
 {
 	height = rand() % 10 + 1;

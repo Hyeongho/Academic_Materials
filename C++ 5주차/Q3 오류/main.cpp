@@ -1,4 +1,4 @@
-//#define _CRT_SECURE_NO_WARNINGS
+#define _CRT_SECURE_NO_WARNINGS
 
 #include <iostream>
 #include <string>
@@ -41,7 +41,7 @@ public:
 		cout << "³ªÀÌ: " << age << endl;
 	}
 
-	void clone(Person& p)
+	/*void clone(Person& p)
 	{
 		age = p.age;
 
@@ -62,7 +62,7 @@ public:
 		{
 			name[i] = p.name[i];
 		}
-	}
+	}*/
 };
 
 Person::Person()
@@ -75,9 +75,7 @@ Person::Person()
 int main()
 {
 	Person A(22, "jack");
-	Person B(0, "  ");
-
-	B.clone(A);
+	Person B(A);
 
 	A.age = 28;
 	strcpy(A.name, "John");

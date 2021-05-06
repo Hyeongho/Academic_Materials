@@ -139,8 +139,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="상속 구현X.cpp" />
-    <ClCompile Include="상속구현.cpp" />
+    <ClCompile Include="상속 구현.cpp" />
+    <ClCompile Include="상속구현X.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

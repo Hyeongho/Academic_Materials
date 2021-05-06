@@ -24,7 +24,7 @@ int main()
 
 	// ¹®Á¦ 3
 
-	Student s1(5, "A");
+	Student s1(5, "A");	
 	Student s2(9, "B");
 	Student s3(10, "C");
 
