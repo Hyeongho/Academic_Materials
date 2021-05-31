@@ -1,0 +1,5 @@
+﻿  main.cpp
+E:\C++학술회\C++ 7주차\STL\main.cpp(15,9): warning C4834: 'nodiscard' 특성이 포함된 함수의 반환 값을 버리는 중
+E:\C++학술회\C++ 7주차\STL\main.cpp(16,11): warning C4834: 'nodiscard' 특성이 포함된 함수의 반환 값을 버리는 중
+E:\C++학술회\C++ 7주차\STL\main.cpp(27,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  STL.vcxproj -> E:\C++학술회\C++ 7주차\Debug\STL.exe
